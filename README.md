@@ -19,10 +19,10 @@ The pendulum is placed **upright** on the cart and the goal is to **balance** th
 
 ### More information about the environment
 <p float="left">
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/SpacesTypes.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/ActionSpace.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/ObservationSpace.png" width="200" /> 
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/Rewards.png" width="200" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/SpacesTypes.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/ActionSpace.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/ObservationSpace.png" width="400" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/Rewards.png" width="400" /> 
 </p>
 
 ### Learning curve and epsilon decay
@@ -44,10 +44,10 @@ The goal is to strategically accelerate the car to reach the **goal** state on *
 
 ### More information about the environment
 <p float="left">
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/SpacesTypes.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/ActionSpace.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/ObservationSpace.png" width="200" /> 
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/Rewards.png" width="200" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/SpaceTypes.png" width="400" height="100"/>
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/Rewards.png" width="400" height="100"/> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/ActionSpace.png" width="400" height="120"/>
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/ObservationSpace.png" width="400" height="120"/> 
 </p>
 
 ### Learning curve and epsilon decay
@@ -72,10 +72,10 @@ The goal is move the taxi to the passenger’s location, **pick up the passenger
 
 ### More information about the environment
 <p float="left">
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/SpacesTypes.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/ActionSpace.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/ObservationSpace.png" width="200" /> 
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/Rewards.png" width="200" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/SpaceTypes.png" width="400"/>
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/Rewards.png" width="400"/> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/ActionSpace.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/ObservationSpace.png" width="400" /> 
 </p>
 
 ### Learning curve and epsilon decay
@@ -97,10 +97,10 @@ The player **makes moves** until they **reach the goal** or **fall** in a hole.
 
 ### More information about the environment
 <p float="left">
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/SpacesTypes.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/ActionSpace.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/ObservationSpace.png" width="200" /> 
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/Rewards.png" width="200" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/StateSpaces.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/ActionSpace.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/ObservationSpace.png" width="400" height="120"/> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/Rewards.png" width="400" height="120"/> 
 </p>
 
 ### Learning curve and epsilon decay
@@ -130,10 +130,10 @@ The player has the sum of cards held. The player can request **additional cards 
 
 ### More information about the environment
 <p float="left">
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/SpacesTypes.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/ActionSpace.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/ObservationSpace.png" width="200" /> 
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/Rewards.png" width="200" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/SpacesTypes.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/ActionSpace.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/ObservationSpace.png" width="400" height="125"/> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/Rewards.png" width="400" height="125"/> 
 </p>
 
 ### Learning curve and epsilon decay
@@ -156,10 +156,10 @@ The player makes moves until they reach the goal.
 
 ### More information about the environment
 <p float="left">
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/SpacesTypes.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/ActionSpace.png" width="200" />
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/ObservationSpace.png" width="200" /> 
-  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/Reward.png" width="200" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/SpaceTypes.png" width="400" />
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/Rewards.png" width="400" /> 
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/ActionSpace.png" width="400" height="125"/>
+  <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/ObservationSpace.png" width="400" height="125"/> 
 </p>
 
 ### Learning curve and epsilon decay
@@ -202,4 +202,4 @@ The objective is to keep the T-Rex **running as long as possible by avoiding obs
 | +2 | if the dino does nothing |
 
 ### Demo
-<p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/ChromeDinoGame/ChromeDinoDemo.gif" width="400"/></p>
+<p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/ChromeDinoGame/ChromeDinoDemo.gif" width="700" heigth="500"/></p>
