@@ -1,4 +1,5 @@
 
+
 # Project Status
 ### 🟠 Paused
 
@@ -34,6 +35,8 @@ The pendulum is placed **upright** on the cart and the goal is to **balance** th
 ### Demo
 <p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CartPole/resources/CartPoleDemo.gif" width="400"/></p>
 
+<br> <br> <br>
+
 # MountainCar-v0
 
 The Mountain Car environment is a deterministic environment that consists of a car placed stochastically at the **bottom** of a sinusoidal **valley**, with the only possible actions being the **accelerations** that can be applied to the car in **either direction**.
@@ -59,6 +62,7 @@ The goal is to strategically accelerate the car to reach the **goal** state on *
 ### Demo
 <p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/MountainCarDiscrete/resources/MountainCarDiscreteDemo.gif" width="400"/></p>
 
+<br> <br> <br>
 
 # Taxi-v3
 
@@ -87,6 +91,8 @@ The goal is move the taxi to the passenger’s location, **pick up the passenger
 ### Demo
 <p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Taxi/resources/TaxiDemo.gif" width="400"/></p>
 
+<br> <br> <br>
+
 # FrozenLake-v1
 
 The game starts with the player at **location [0,0]** of the frozen lake grid world with the goal located at far extent of the world e.g. [3,3] for the 4x4 environment.
@@ -108,6 +114,8 @@ The player **makes moves** until they **reach the goal** or **fall** in a hole.
   <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/learning_curve.png" width="400" />
   <img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/epsilon_decay.png" width="400" /> 
 </p>
+
+<br> <br> <br>
 
 ### Demo
 <p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/FrozenLake/resources/FrozenLakeDemo.gif" width="400"/></p>
@@ -145,6 +153,8 @@ The player has the sum of cards held. The player can request **additional cards 
 ### Demo
 <p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/Blackjack/resources/BlackjackDemo.gif" width="400"/></p>
 
+<br> <br> <br>
+
 # CliffWalking-v0
 
 The game starts with the player at **location [3, 0]** of the 4x12 grid world with the **goal** located at **[3, 11]**.
@@ -171,6 +181,7 @@ The player makes moves until they reach the goal.
 ### Demo
 <p align="center"><img src="https://github.com/DanLaurentiu1/RLProjects/blob/main/CliffWalking/resources/CliffWalkingDemo.gif" width="400"/></p>
 
+<br> <br> <br>
 
 # ChromeDinoGame
 
